@@ -7,8 +7,10 @@ My tech stack
 * Python
 * Database
 
+Hobbies : Plays Basketball
 ```
 let message = 'Hello world';
 alert(message);
 ```
 
+# CTRL + SHIFT + V
